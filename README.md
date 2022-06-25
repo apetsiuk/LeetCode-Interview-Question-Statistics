@@ -16,11 +16,17 @@ The complete list of interview questions that I included in the statistics:
 > *Given the small number of tasks for Apple, Uber, Flipkart, and Swiggy, they were all combined into a common database and are referred to as Apple in the text. It should also be noted that premium problems were not included in the statistics.
 
 ![overall complexity](images/overall_complexity.png)
+
 ![topic_distribution_among_companies.png](topic_distribution_among_companies.png)
+
 ![top_topics.png](top_topics.png)
+
 ![topic_popularities.png](topic_popularities.png)
+
 ![topic_correlation.png](topic_correlation.png)
+
 ![complexity_vs_topic_distribution.png](complexity_vs_topic_distribution.png)
+
 
 Each task on leetcode can belong to several topics at once. The tasks in all interview sets have a total of 43 possible topics. If we collect all the problems for each individual set and count the number of mentions of each topic separately, the distribution by topic for each company will look like this:
 
