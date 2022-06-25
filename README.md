@@ -2,6 +2,8 @@
 
 **[Article on Medium](https://medium.com/@apetsiuk/leetcode-interview-question-statistics-how-to-run-your-own-analytical-report-in-2022-1b202ae48902)**
 
+![companies' logos](images/companies.png)
+
 Comparative statistical analysis of top interview problems by topics, complexity, and popularity based on [pgmreddy’s list](https://leetcode.com/discuss/interview-question/1376426/facebook-interview-questions-july-2020-july-2021). This overview may help you choose the optimal preparation strategy and automatically analyze any other tasks, depending on the need.
 
 The complete list of interview questions that I included in the statistics:
